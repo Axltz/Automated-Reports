@@ -1,0 +1,13 @@
+{
+  "generate_sales_report": true,
+  "generate_inventory_report": true,
+  "generate_customer_report": true,
+
+  "input_files": {
+    "sales": "data/sales.xlsx",
+    "inventory": "data/inventory.csv",
+    "customers": "data/customers.xlsx"
+  },
+
+  "output_file": "output/business_report.xlsx"
+}
