@@ -4,7 +4,7 @@
   "generate_customer_report": true,
 
   "input_files": {
-    "sales": "data/sales.xlsx",
+    "sales": "data/sales.csv",
     "inventory": "data/inventory.csv",
     "customers": "data/customers.xlsx"
   },
